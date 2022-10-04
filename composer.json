@@ -1,0 +1,7 @@
+{
+    "name": "ambientia/dummy-package",
+    "description": "Ambientia - Dummy package",
+    "require": {
+        "php": "^8.1"
+    }
+}
